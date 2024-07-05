@@ -1,4 +1,4 @@
 # JavaBasic
-Source code of Java Basic
+Source code of Java Basic 2024
 
-edit code
+Course from Anh Tester
